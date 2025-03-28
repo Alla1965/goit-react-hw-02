@@ -2,9 +2,9 @@ import './App.css'
 
 
 import { useState, useEffect } from "react";
-import Description from './component/Description/Description';
-import Options from './component/options/options';
-import Feedback from './component/Feedback/feedback';
+import Description from './components/Description/Description';
+import Options from './components/Options/Options';
+import Feedback from './components/Feedback/Feedback';
 
 const reviewsData ={
 	good: 0,
