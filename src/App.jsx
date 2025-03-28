@@ -2,7 +2,7 @@ import './App.css'
 
 
 import { useState, useEffect } from "react";
-import Description from './component/description/description';
+import Description from './component/Description/Description';
 import Options from './component/options/options';
 import Feedback from './component/Feedback/feedback';
 
